@@ -26,6 +26,7 @@ namespace GraphicExamples
             Font drawfont = new Font("Ariel", 16, FontStyle.Bold);
             // clear the screen
 
+            //This is a test//l;kajsdflkjasdlfkj
 
             // code for all shapes 
             g.DrawLine(drawpen, 0, 0, 100, 100);
